@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="se.yrgo.booklibG.BookTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-29T15:09:08" hostname="IGN0TUS-LAPTOP" time="0.005">
+<testsuite name="se.yrgo.booklibG.BookTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-29T16:07:08" hostname="IGN0TUS-LAPTOP" time="0.005">
   <properties/>
   <testcase name="test2NonEqualBooks()" classname="se.yrgo.booklibG.BookTest" time="0.003"/>
   <testcase name="test2EqualBooks()" classname="se.yrgo.booklibG.BookTest" time="0.001"/>
