@@ -1,0 +1,17 @@
+-classpath 'C:\\IdeaProjects\\Assignment2\\Library-G\\build\\classes\\java\\main;C:\\IdeaProjects\\Assignment2\\Library-G\\build\\resources\\main'
+-d 'C:\\IdeaProjects\\Assignment2\\Library-G\\build\\docs\\javadoc'
+-doctitle 'Library-G 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'Library-G 1.0-SNAPSHOT API'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\Book.java'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\BookCatalog.java'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\BookNotFoundException.java'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\Customer.java'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\GenderType.java'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\Loan.java'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\LoanAlreadyExistsException.java'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\LoanNotFoundException.java'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\LoanStatus.java'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\Main.java'
+'C:\\IdeaProjects\\Assignment2\\Library-G\\src\\main\\java\\se\\yrgo\\booklibG\\Material.java'

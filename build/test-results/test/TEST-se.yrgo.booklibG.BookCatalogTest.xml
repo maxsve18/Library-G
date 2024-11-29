@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.yrgo.booklibG.BookCatalogTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-29T15:09:08" hostname="IGN0TUS-LAPTOP" time="0.05">
+  <properties/>
+  <testcase name="testAddABook()" classname="se.yrgo.booklibG.BookCatalogTest" time="0.039"/>
+  <testcase name="testFindBook()" classname="se.yrgo.booklibG.BookCatalogTest" time="0.002"/>
+  <testcase name="testFindBookIgnoringCase()" classname="se.yrgo.booklibG.BookCatalogTest" time="0.001"/>
+  <testcase name="testFindBookWithExtraSpaces()" classname="se.yrgo.booklibG.BookCatalogTest" time="0.001"/>
+  <testcase name="testFindBookThatDoesntExist()" classname="se.yrgo.booklibG.BookCatalogTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

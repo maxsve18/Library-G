@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.yrgo.booklibG.LoanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-29T15:09:08" hostname="IGN0TUS-LAPTOP" time="0.013">
+  <properties/>
+  <testcase name="testDueDate()" classname="se.yrgo.booklibG.LoanTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

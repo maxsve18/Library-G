@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+}
+
+group = 'se.yrgo.booklibG'
+version = '1.0-SNAPSHOT'
+jar {
+    manifest {
+        attributes 'Main-Class': 'se.yrgo.booklibG.Main'
+    }
+}
+
+
+defaultTasks 'clean', 'compileJava', 'compileTestJava', 'test', 'javadoc', 'runMain'
+
+
+task runDefaultTasks {
+    dependsOn 'clean', 'compileJava', 'compileTestJava', 'test', 'javadoc', 'runMain'
+}
+
+
+task (runMain, dependsOn: 'classes', type: JavaExec) {
+    mainClass = 'se.yrgo.booklibG.Main'
+    classpath =  sourceSets.main.runtimeClasspath
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
